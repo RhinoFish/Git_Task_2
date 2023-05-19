@@ -1,5 +1,7 @@
 sf line 1 --other info step 5
 sf line 2 --other info step 5
+sf line 1 --update step 4
+sf line 2 --update step 4
 sf line 3
 sf line 4
 sf line 5
